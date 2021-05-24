@@ -75,3 +75,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://blue-sage-b5791.netlify.app'
